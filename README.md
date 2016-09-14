@@ -33,11 +33,9 @@
 
 ## 三、运行截图 ##
 
-![](https://github.com/M78Snail/EasyAndroid/blob/master/pic/main_01.jpeg)
+![](https://github.com/M78Snail/EasyAndroid/blob/master/pic/main.jpg)
 
-![](https://github.com/M78Snail/EasyAndroid/blob/master/pic/main_02.jpg)
 
-![](https://github.com/M78Snail/EasyAndroid/blob/master/pic/main_03.jpg)
 
 ## 四、博客
 　　[m78star.com](http://m78star.com)
