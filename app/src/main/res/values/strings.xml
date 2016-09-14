@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">安卓帮</string>
+
+    <!--底部图标名称-->
+    <string name="tab_knowledge">知识体系</string>
+    <string name="tab_memory">项目常用框架</string>
+    <string name="tab_network">热门专题</string>
+    <string name="tab_other">设置</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string name="tip_double_click_exit">再按一次退出</string>
+
+    <string name="title_knowledge">"知识体系"</string>
+    <string name="title_news">"行内资讯"</string>
+    <string name="title_commonFrame">"常用框架"</string>
+    <string name="title_interview">"面试宝典"</string>
+
+    <string name="UserName">用户名</string>
+    <string name="PassWord">密码</string>
+    <string name="go">GO</string>
+    <string name="forgot_your_password">忘记密码？</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="repeat_password">重复密码</string>
+    <string name="next">NEXT</string>
+
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone.</string>
+
+</resources>
