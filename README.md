@@ -8,7 +8,7 @@
 
 * 知识点归类明细，每一个知识点采用的博文都是经过精心的挑选和改进，确保一个知识点只保留一篇博文。
  
-	![c300](http://m78star.com/media/14737385475257/14738207920248.jpg)
+	![](https://github.com/M78Snail/EasyAndroid/blob/master/pic/header01.png)
  
 
 * 博文采用了缓存机制，会根据不同网络环境调整缓存存活时间，给使用者一个良好的体验。
@@ -33,15 +33,11 @@
 
 ## 三、运行截图 ##
 
+![](https://github.com/M78Snail/EasyAndroid/blob/master/pic/main_01.jpeg)
 
-**侧边导航**
-![](http://m78star.com/media/14738219571613/14738238996477.jpg)
+![](https://github.com/M78Snail/EasyAndroid/blob/master/pic/main_02.jpg)
 
-
-**行内咨询**
-![c130](http://m78star.com/media/14738219571613/14738225511102.jpg)
-**知识体系**
-![c130](http://m78star.com/media/14738219571613/14738223351014.jpg)
+![](https://github.com/M78Snail/EasyAndroid/blob/master/pic/main_03.jpg)
 
 ## 四、博客
 　　[m78star.com](http://m78star.com)
