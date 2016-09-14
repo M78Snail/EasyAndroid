@@ -1,8 +1,10 @@
 #  EasyAndroid (Android面试复习)
 
 ## 一、项目简介 ##
-　　[项目源码：EasyAndroid](https://github.com/M78Snail/EasyAndroid)
-　　EasyAndroid是一款专门面向Android开发者的面试复习与关注业内动态的手机App，里面包含知识体系，业内动态，开发技术周报三大模块。
+　
+[项目源码:EasyAndroid](https://github.com/M78Snail/EasyAndroid)
+
+	EasyAndroid是一款专门面向Android开发者的面试复习与关注业内动态的手机App，里面包含知识体系，业内动态，开发技术周报三大模块。
 　　
 **特点：**
 
