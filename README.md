@@ -39,6 +39,3 @@
 
 
 
-## 四、博客
-　　[m78star.com](http://m78star.com)
-
